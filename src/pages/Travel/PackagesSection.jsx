@@ -186,7 +186,7 @@ const PackageSection = () => {
       <PackageCard title="Adventure Packages" packageData={adventureData} />
 
       {/* Luxury Packages Section */}
-      <PackageCard title="Luxury Getaways" packageData={luxuryData} />
+      <PackageCard title="Luxury Escapes" packageData={luxuryData} />
     </Container>
   );
 };

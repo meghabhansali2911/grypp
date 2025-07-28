@@ -42,10 +42,10 @@ const Header = () => {
       >
         {/* Logo */}
         <Box sx={{ display: "flex", alignItems: "center" }}>
-          <Link href="/" title="CarDekho.com">
+          <Link href="/" title="Travel Grypp" underline="none">
             <img
               src="/travel-logo.png"
-              alt="CarDekho.com"
+              alt="Travel Grypp"
               width="174"
               height="42"
               loading="eager"
